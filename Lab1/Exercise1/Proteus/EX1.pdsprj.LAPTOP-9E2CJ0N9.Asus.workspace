@@ -342,7 +342,7 @@
      <ITEM name="nBreakpoints">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="300" x="720" flags="0000000b" y="893" h="300" pid="101" iid="1">
+   <POPUP w="300" x="720" flags="0000000a" y="893" h="300" pid="101" iid="1">
     <PROPERTIES>
      <ITEM name="Address Column Width">90</ITEM>
      <ITEM name="AutoResize">No</ITEM>

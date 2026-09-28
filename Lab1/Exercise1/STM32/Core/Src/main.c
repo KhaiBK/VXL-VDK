@@ -121,11 +121,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  while (1)
-	  {
 	      HAL_Delay(1000);
 	      EX1_RUN();
-	  }
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
